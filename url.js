@@ -8,10 +8,6 @@
 
 
 const urls = [
-	/*'https://zh.surveymonkey.com/r/BWLM3V2',遠1*/
-	/*'https://zh.surveymonkey.com/r/NTS5JVJ',遠2*/
-	/*'https://zh.surveymonkey.com/r/NTTYVZR',遠3*/
-	/*'https://zh.surveymonkey.com/r/BWDMRHV',近1*/
-	/*'https://zh.surveymonkey.com/r/BSMGWQK',近2*/
-	'https://zh.surveymonkey.com/r/NTGBR2X',/*近3*/
+	'https://zh.surveymonkey.com/r/6NJ7XY9',/*high*/
+	'https://zh.surveymonkey.com/r/VDNGL6',/*low*/
 ];
